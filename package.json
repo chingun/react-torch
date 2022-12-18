@@ -1,0 +1,23 @@
+{
+  "name": "react-torch",
+  "version": "1.0.0",
+  "description": "Allows custom pretrained torch models to be used in nodejs environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chingun/react-torch.git"
+  },
+  "keywords": [
+    "pytorch",
+    "clip"
+  ],
+  "author": "Chingun Kh <chingun555@gmail.com> (https://twitter.com/chingunkh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chingun/react-torch/issues"
+  },
+  "homepage": "https://github.com/chingun/react-torch#readme"
+}
